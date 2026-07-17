@@ -1,0 +1,31 @@
+---
+name: skill-name
+description: "This skill should be used when [specific trigger], producing [specific output]. Instruct the AI agent to follow [working method] and verify [success condition]."
+---
+
+# Skill name
+
+State one job, input, and output. Keep overview brief; put operational detail below.
+
+## Workflow
+
+1. Inspect [required context].
+2. Perform [repeatable action].
+3. Verify [success condition].
+4. Report [files, results, risks].
+
+## Decision rules
+
+Explain how to choose between common approaches, what context must be inspected, and when to stop for user direction.
+
+## Verification
+
+List normal, edge, and failure checks. State exact commands or observable success conditions.
+
+## Guardrails
+
+List safety, privacy, cost, compatibility, or quality limits.
+
+## Resources
+
+Load `references/` only when detailed source material is needed. Run `scripts/` for deterministic repeat work.

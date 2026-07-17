@@ -1,0 +1,29 @@
+{
+  "name": "professional-web-design-agents",
+  "version": "0.1.0+codex.20260717055006",
+  "description": "Multi-agent system for building polished React websites with UI systems, motion, WebGL, typography, color, accessibility, and code review.",
+  "author": {
+    "name": "Local developer",
+    "email": "local@localhost"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Professional Web Design Agents",
+    "shortDescription": "Ship high-quality React websites with specialist design agents.",
+    "longDescription": "Routes website work through specialist agents for components, typography, color, GSAP, Vanta, Three.js, Lenis, React Bits, Magic MCP, research, review, and execution.",
+    "developerName": "Local developer",
+    "category": "Web Development",
+    "capabilities": [
+      "Plan",
+      "Design",
+      "Code",
+      "Review"
+    ],
+    "defaultPrompt": [
+      "Plan and build this website with specialist agents.",
+      "Audit this UI for polish, performance, and accessibility.",
+      "Add premium motion and WebGL without hurting UX."
+    ],
+    "brandColor": "#7C3AED"
+  }
+}
